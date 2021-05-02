@@ -20,16 +20,16 @@ defaults:
       
       
 author:
-  name   : "Bicicleta"
-  avatar : "img/bicicleta.png"
-  bio    : "Vocabulario para la representación de datos sobre el sistema de bicicleta pública."
+  name   : "Presupuesto y Ejecución Presupuestaria"
+  avatar : "img/presupuesto.png"
+  bio    : "Vocabulario para la representación de la información de los presupuestos y la ejecución presupuestaria de acuerdo a los datos de gestión económica municipal."
   links:
     - label: "Página web"
       icon: "fas fa-fw fa-link"
-      url: "http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html"
+      url: "http://vocab.ciudadesabiertas.es/def/hacienda/presupuesto/index-es.html"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica"
+      url: "https://github.com/opencitydata/hacienda-presupuesto"
 
 
 
